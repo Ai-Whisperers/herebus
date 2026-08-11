@@ -1,0 +1,10 @@
+﻿.DS_Store
+Thumbs.db
+*.tmp
+commitmsg.txt
+.env
+.env.*
+credentials.json
+**/node_modules/
+.cursor/
+.specstory/

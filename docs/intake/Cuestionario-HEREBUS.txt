@@ -1,0 +1,323 @@
+CUESTIONARIO HEREBUS
+Definicion del producto - lo que vamos a construir
+Para: Saskia Weiss Vander  |  De: K.W. / equipo  |  Fecha: agosto 2026
+Instrucciones: marca con una X las opciones que aplican. Puedes responder en cualquier orden. "No se" esta bien. Este documento define que SI entra en el producto (pagina, WhatsApp Business, Excels de administracion, Hermes) y que queda afuera.
+A. Contexto del negocio
+A1. Nombre comercial y marca
+Por que importa: Define el nombre en la pagina, WhatsApp e Instagram.
+[ ] HEREBUS
+[ ] Otro nombre (escribilo abajo)
+[ ] Todavia no decidi / quiero ayuda a elegir
+Respuesta / notas: _______________________________________________
+________________________________________________________________
+A2. Estado comercial hoy
+Por que importa: Cambia compliance (BPM), facturacion e IVA en los Excels.
+[ ] Solo produccion casera / prueba (sin ventas formales)
+[ ] Ventas a amigos/familia (efectivo, sin factura)
+[ ] Comercial chico (menos de ~Gs. 1.000.000/mes)
+[ ] Comercial real (volumen mayor, posiblemente con RUC)
+[ ] No se / prefiero hablarlo en voz
+Respuesta / notas: _______________________________________________
+________________________________________________________________
+A3. Regimen fiscal / contador
+Por que importa: Decide si el P&L necesita capa IVA o monotributo.
+[ ] Monotributo
+[ ] Regimen general (IVA + IRP)
+[ ] Tengo contador pero no se el regimen
+[ ] Todavia no tengo contador
+[ ] Me manejo sola
+Respuesta / notas: _______________________________________________
+________________________________________________________________
+A4. Ubicacion base de operacion
+Por que importa: Afecta delivery, pickup y textos legales.
+[ ] Villa Amelia / zona ya acordada
+[ ] San Lorenzo
+[ ] Asuncion (otra zona)
+[ ] Solo delivery (sin pickup)
+[ ] Otro:
+Respuesta / notas: _______________________________________________
+________________________________________________________________
+A5. Que vendes hoy (o quieres vender primero)
+Por que importa: Prioriza catalogo web y recetas en el Excel.
+[ ] Pasteleria / tortas
+[ ] Galletas / cookies
+[ ] Productos holandeses (stroopwafels, etc.)
+[ ] Comida salada (frikandel, etc.)
+[ ] Meal prep / combos
+[ ] Otro:
+Respuesta / notas: _______________________________________________
+________________________________________________________________
+B. Pagina web - alcance del producto
+Objetivo: definir que pagina te vendemos (no el Excel).
+B1. Para que necesitas la pagina (marca todas)
+Por que importa: Define el tipo de sitio (vitrina vs tienda vs pedidos).
+[ ] Que me encuentren (marca / confianza)
+[ ] Mostrar menu / productos con fotos y precios
+[ ] Recibir pedidos (formulario o carrito)
+[ ] Redirigir a WhatsApp para cerrar la venta
+[ ] Mostrar horarios, zona de delivery y pickup
+[ ] Blog / historia de la marca
+[ ] Otro:
+Respuesta / notas: _______________________________________________
+________________________________________________________________
+B2. Tipo de sitio en la primera version (MVP)
+Por que importa: Evita construir de mas en la v1.
+[ ] Landing simple (marca + CTA a WhatsApp)
+[ ] Catalogo / menu con precios (sin pago online)
+[ ] Catalogo + pedido online (sin pago online)
+[ ] Tienda con pago online (MercadoPago / similar)
+[ ] No se - recomendame la opcion mas simple que venda
+Respuesta / notas: _______________________________________________
+________________________________________________________________
+B3. Idioma(s) de la pagina
+[ ] Solo espanol
+[ ] Espanol + ingles / neerlandes
+[ ] Espanol + guarani (textos cortos)
+[ ] Otro:
+Respuesta / notas: _______________________________________________
+________________________________________________________________
+B4. Dominio / URL
+Por que importa: Hosting y marca.
+[ ] Ya tengo dominio (cual: _________)
+[ ] Quiero comprar uno (ideas: _________)
+[ ] Por ahora un subdominio gratis / temporal esta bien
+[ ] No se
+Respuesta / notas: _______________________________________________
+________________________________________________________________
+B5. Contenido listo vs a producir
+Por que importa: Define si el precio incluye produccion de contenido.
+[ ] Tengo logo
+[ ] Tengo fotos de productos
+[ ] Tengo textos de "sobre mi / marca"
+[ ] Tengo lista de precios actualizada
+[ ] Necesito ayuda con logo
+[ ] Necesito sesion de fotos
+[ ] Necesito que redacten los textos
+[ ] Todavia no tengo nada de eso
+Respuesta / notas: _______________________________________________
+________________________________________________________________
+B6. Quien va a actualizar la pagina despues
+Por que importa: Define si te vendemos mantenimiento o te capacitamos.
+[ ] Yo (quiero aprender; estoy en bootcamp web)
+[ ] Vos / el equipo (mantenimiento mensual)
+[ ] Compartido: yo textos/fotos, ustedes lo tecnico
+[ ] No se todavia
+Respuesta / notas: _______________________________________________
+________________________________________________________________
+B7. Referencias de paginas que te gustan
+Por que importa: Ayuda diseno sin adivinar.
+Respuesta / notas: _______________________________________________
+________________________________________________________________
+Links / nombres: _______________________________________________
+C. WhatsApp Business y pedidos
+C1. Estado de WhatsApp Business
+[ ] Todavia no lo tengo - lo voy a sacar
+[ ] Ya lo tengo pero no configurado
+[ ] Ya lo uso para pedidos
+[ ] Prefiero Instagram DM / otro canal
+Respuesta / notas: _______________________________________________
+________________________________________________________________
+C2. Como quieres recibir pedidos (MVP)
+Por que importa: Alinea web + Excel + operacion diaria.
+[ ] Solo WhatsApp (mensaje libre)
+[ ] WhatsApp con catalogo de productos
+[ ] Formulario en la web que me manda a WhatsApp
+[ ] Bot automatizado (despues; no en v1)
+[ ] Pedidos solo por IG
+[ ] Otro:
+Respuesta / notas: _______________________________________________
+________________________________________________________________
+C3. Como pagan los clientes hoy (marca todas)
+Por que importa: Define registro de ventas en Excel o import.
+[ ] Efectivo
+[ ] Transferencia Banco Familiar / SPI
+[ ] PIX
+[ ] MercadoPago / Bancard / Tigo Money
+[ ] No registro ventas aun
+[ ] Anoto en cuaderno
+[ ] Otro:
+Respuesta / notas: _______________________________________________
+________________________________________________________________
+C4. Delivery / pickup
+[ ] Solo pickup
+[ ] Delivery propio
+[ ] Delivery contratado
+[ ] Ambos
+[ ] Todavia no definido
+Respuesta / notas: _______________________________________________
+________________________________________________________________
+C5. Horarios de pedido / produccion / entrega
+Por que importa: Va en la pagina y en el calendar planner.
+Respuesta / notas: _______________________________________________
+________________________________________________________________
+Dias y horarios: _______________________________________________
+C6. Producto agotado / out of stock
+Por que importa: Hay diseno borrador en el repo; lo quieres en v1?
+[ ] Si - que WhatsApp/web diga que no hay
+[ ] No - lo manejo yo a mano
+[ ] Mas adelante
+Respuesta / notas: _______________________________________________
+________________________________________________________________
+D. Excels de administracion (HEREBUS) y Hermes
+Hoy viven en el repo privado Ai-Whisperers/saskia-personal-context, carpeta 04_foodbiz-management-system/data/.
+D1. Cuales de estos libros usas o quieres usar?
+Por que importa: Prioriza que fijamos primero.
+[ ] HEREBUS_FoodBiz.xlsx (inventario + recetas + produccion + waste + P&L)
+[ ] HEREBUS_Suppliers.xlsx (proveedores y precios)
+[ ] HEREBUS_Analisis.xlsx (KPI / pricing / riesgos / wishlist)
+[ ] HEREBUS_Comparacion_Proveedores.xlsx
+[ ] RECETARIO_EN_BLANCO.xlsx (plantilla nuevas recetas)
+[ ] Todavia no abri ninguno - necesito tour el viernes
+[ ] Prefiero Google Sheets en el celular, no Excel del repo
+Respuesta / notas: _______________________________________________
+________________________________________________________________
+D2. Donde quieres trabajar dia a dia
+Por que importa: Arquitectura Drive vs repo.
+[ ] Excel en la PC / OneDrive
+[ ] Google Sheets en el celular (edicion frecuente)
+[ ] Repo GitHub (backup / version)
+[ ] Combinacion: Sheets para operar + repo como backup versionado
+[ ] No se - recomendame
+Respuesta / notas: _______________________________________________
+________________________________________________________________
+D3. Que NO debe tocar Hermes nunca sin tu OK
+Por que importa: Esto es el "fijar" que pediste.
+[ ] Precios de venta
+[ ] Costos de ingredientes
+[ ] Recetas (cantidades)
+[ ] Nombres de productos
+[ ] Datos personales / bancarios
+[ ] Todo el folder foodbiz (solo lectura para Hermes)
+[ ] Otro:
+Respuesta / notas: _______________________________________________
+________________________________________________________________
+D4. Que SI puede actualizar Hermes mas adelante (con reglas)
+Por que importa: Canal seguro de update via produccion/venta.
+[ ] Agregar filas de produccion del dia
+[ ] Registrar merma / waste
+[ ] Actualizar stock despues de compras
+[ ] Registrar una venta
+[ ] Proponer (no aplicar) cambios de precio
+[ ] Nada automatico por ahora - solo yo edito
+[ ] Otro:
+Respuesta / notas: _______________________________________________
+________________________________________________________________
+D5. Antes de que Hermes aplique un cambio, quieres aprobacion?
+[ ] Si - siempre (PR / mensaje / vista previa)
+[ ] Si - solo si toca precios o recetas
+[ ] No - confio en reglas estrictas
+[ ] Decidir despues del tour del viernes
+Respuesta / notas: _______________________________________________
+________________________________________________________________
+D6. Precios de ingredientes (despues de tus compras)
+Por que importa: El inventario esta pensado para que vos cargues precios/yields.
+[ ] Ya voy a cargar yo los precios esta semana
+[ ] Quiero una sesion guiada para cargar juntos
+[ ] Quiero que alguien cargue desde mis tickets/fotos
+[ ] Todavia no
+Respuesta / notas: _______________________________________________
+________________________________________________________________
+D7. Las 7+ recetas legacy / nuevas - siguen vigentes?
+Por que importa: Afecta catalogo web y costing.
+[ ] Si, la mayoria
+[ ] Algunas cambiaron (listar abajo)
+[ ] Hay que re-costear todo
+[ ] Agregar galletitas base / otras nuevas
+[ ] No se
+Respuesta / notas: _______________________________________________
+________________________________________________________________
+E. Marca, clientes e Instagram
+E1. Canales que ya usas
+[ ] Instagram
+[ ] Facebook
+[ ] WhatsApp personal
+[ ] WhatsApp Business
+[ ] Ninguno todavia
+[ ] Otro:
+Respuesta / notas: _______________________________________________
+________________________________________________________________
+E2. Cliente ideal (quien compra)
+Respuesta / notas: _______________________________________________
+________________________________________________________________
+E3. Ticket / precio tipico que buscas
+[ ] Menos de Gs. 50.000
+[ ] 50.000 - 150.000
+[ ] 150.000 - 400.000
+[ ] Mas de 400.000 (encargos / tortas)
+[ ] Mezcla
+[ ] Todavia definiendo pricing
+Respuesta / notas: _______________________________________________
+________________________________________________________________
+E4. Zonas de delivery prioritarias
+Respuesta / notas: _______________________________________________
+________________________________________________________________
+F. Alcance del trabajo / paquete
+Marca que quieres contratar en la primera etapa.
+F1. Paquete v1 - marca lo incluido
+[ ] Tour + ordenamiento del repo y Excels (viernes)
+[ ] Reglas Hermes / anti-cambio libre + flujo de updates seguros
+[ ] Pagina web MVP
+[ ] Setup WhatsApp Business + catalogo
+[ ] Carga inicial de precios / recetas
+[ ] Calendar / planificacion de produccion
+[ ] Capacitacion para que vos edites despues
+[ ] Mantenimiento mensual
+Respuesta / notas: _______________________________________________
+________________________________________________________________
+F2. Que queda explicitamente AFUERA de v1
+Por que importa: Evita scope creep.
+[ ] Bot de WhatsApp automatizado
+[ ] App movil
+[ ] Facturacion electronica / SET
+[ ] Pago online
+[ ] Multi-sucursal
+[ ] Integracion bancaria automatica
+[ ] Otro que quieras excluir:
+Respuesta / notas: _______________________________________________
+________________________________________________________________
+F3. Presupuesto aproximado para v1 (rango comodo)
+Por que importa: Si preferis no poner numero, dejalo en blanco.
+Respuesta / notas: _______________________________________________
+________________________________________________________________
+F4. Plazo deseado
+[ ] Esta semana (solo Excels / tour)
+[ ] Proximas 2 semanas (web liviana + WA)
+[ ] Este mes
+[ ] Sin apuro - bien hecho
+[ ] Otro:
+Respuesta / notas: _______________________________________________
+________________________________________________________________
+F5. Disponibilidad para sesiones
+[ ] Viernes (tour + tips)
+[ ] Un dia la semana siguiente (pagina en serio)
+[ ] Puedo hacer llamadas cortas entre semana
+[ ] Prefiero async por WhatsApp
+Respuesta / notas: _______________________________________________
+________________________________________________________________
+G. Exito y riesgos
+G1. En 30 dias, que tendria que existir para decir "valio la pena"?
+Respuesta / notas: _______________________________________________
+________________________________________________________________
+G2. Miedo principal / que NO quieres que pase
+Por que importa: Ej.: Hermes rompe precios; pagina fea; demasiado tecnico; datos personales expuestos.
+Respuesta / notas: _______________________________________________
+________________________________________________________________
+G3. Hay algo que ya hiciste vos y quieres que respetemos / mostremos?
+Por que importa: Lo mencionaste para el viernes.
+Respuesta / notas: _______________________________________________
+________________________________________________________________
+H. Checklist rapido (si / no)
+[ ] Si   [ ] No   [ ] Despues  -  Quiero pagina web en la primera entrega
+[ ] Si   [ ] No   [ ] Despues  -  Quiero WhatsApp Business configurado en la primera entrega
+[ ] Si   [ ] No   [ ] Despues  -  Quiero que los Excels queden fijados contra cambios libres de Hermes
+[ ] Si   [ ] No   [ ] Despues  -  Acepto que Hermes pueda proponer updates de produccion/venta con mi OK
+[ ] Si   [ ] No   [ ] Despues  -  Puedo cargar precios de ingredientes esta semana
+[ ] Si   [ ] No   [ ] Despues  -  Tengo (o consigo) fotos de productos para la web
+[ ] Si   [ ] No   [ ] Despues  -  Estoy OK con publicar solo espanol al inicio
+[ ] Si   [ ] No   [ ] Despues  -  Entiendo que datos bancarios/personales NO van en la pagina ni en un bot
+I. Firma / confirmacion
+Nombre: Saskia Weiss Vander
+Fecha en que completas esto: ____ / ____ / 2026
+Firma o "OK por WhatsApp": ________________________________
+
+Gracias. Con esto armamos el plan escrito y el alcance del producto sin adivinar.
